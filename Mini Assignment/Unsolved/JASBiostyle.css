@@ -1,22 +1,12 @@
+/* giving the body a dark background to better see the bright colored boxes */
 body {
     background:#efeee7;
     font-family:"Georgia", Times New Roman, Times, serif;
     color: #333333;
-  }
+}
 header {
     background-color: #333333;    
- }
-
-.img {
-  width: 200px; 
-       width: 200px; 
-  width: 200px; 
-}
-.box {
- width: 200px;
- height: 200px;
-}
-
+   }
 
 #main-bio {
     float: left;
@@ -33,3 +23,18 @@ header {
 h1 {
     font-color: #eeeeee;
 }
+
+
+h2 {
+
+
+}
+
+  /* every box is this size */
+  .img {
+       width: 200px; 
+  }
+  .box {
+    width: 200px;
+    height: 200px;
+  }
